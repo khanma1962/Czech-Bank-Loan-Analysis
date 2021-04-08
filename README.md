@@ -24,45 +24,9 @@ In keeping with the original task description, our project goal is to mine and a
 
 (6)	What are the characteristics of a good bank branch?
 
+RESULT :
 
-Models
-Acc (Train) 
-Acc (Test)
-F1 Score (Test)
-AUC (Test)
-Comment
-Logistic Regression
-0.90
-0.90
-0.95
-0.45
 
-Random Forest
-0.90
-0.91
-0.95
-0.72
-Best Model
-Logistic Regression
-With SMOTE
-0.99
-0.99
-0.74
-0.58
-
-Random Forest
-With SMOTE
-0.90
-0.91
-0.93
-0.67
-
-Decision Tree
-0.90
-0.91
-.095
-0.63
-
-![image](https://user-images.githubusercontent.com/66092829/114090566-71ea4300-986c-11eb-808e-883b6ba3f7e1.png)
-
+/Users/khan_m_a/Downloads/Screen Shot 2021-04-08 at 1.16.10 PM.png
+![image](https://user-images.githubusercontent.com/66092829/114090781-b8d83880-986c-11eb-9b0b-e169d2a6d1f2.png)
 
