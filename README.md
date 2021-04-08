@@ -24,9 +24,11 @@ In keeping with the original task description, our project goal is to mine and a
 
 (6)	What are the characteristics of a good bank branch?
 
+
 RESULT :
 
 
-/Users/khan_m_a/Downloads/Screen Shot 2021-04-08 at 1.16.10 PM.png
+Please see the attached pdf for detailed ananlysis of this case.
+
 ![image](https://user-images.githubusercontent.com/66092829/114090781-b8d83880-986c-11eb-9b0b-e169d2a6d1f2.png)
 
